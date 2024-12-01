@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "382735159927",
+    "project_id": "pumentor-b183c",
+    "storage_bucket": "pumentor-b183c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382735159927:android:64bd1f636a8a081c5dec72",
+        "android_client_info": {
+          "package_name": "com.example.pmu_mentor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUzg6PZwBzm6uy4z7s2-yh0BFypFHyBVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
